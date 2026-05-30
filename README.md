@@ -5,4 +5,4 @@ I was responsible for the designing and implementing the electronics, wiring and
 
 ![CAD Model](./Images/boat.png)
 
-![Picture](./Images/boat.jpg)
+![Picture](./Images/boat_1.jpg)
