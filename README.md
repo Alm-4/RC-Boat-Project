@@ -1,7 +1,10 @@
 # RC-Boat-Project
-Collaborated in a team of 8 to design and manufacture a high-performance battery powered RC race boat at the University of Waikato. 
+Collaborated in a team of 8 to design and manufacture a high performance battery powered RC race boat
 
-I was responsible for the designing and implementing the electronics, wiring and the battery packs aswell as our groups' accounting work.
+**My responsibilities:**
+- Designed and implemented the electronics and wiring
+- Designed the battery pack arrangement
+- Managed the team's budget
 
 ## Images
 ### Final CAD Model
